@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:2.1
+N:name;Full
+FN:Nick Mosher
+TITLE:Designer
+TEL;HOME;VOICE:(785)813-1246
+URL;HOME:http://nick.mosher.me
+EMAIL;INTERNET:nick@mosher.me
+END:VCARD
